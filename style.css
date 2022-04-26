@@ -1,0 +1,18 @@
+:root{
+    font-size: 16px;
+}
+
+* {
+    margin: 0;
+    padding:0
+}
+
+canvas{
+   /* border: 1px solid black;*/
+}
+
+#game-start{
+    position: fixed;
+    top: 50vh;
+    left: 50vw;
+}
